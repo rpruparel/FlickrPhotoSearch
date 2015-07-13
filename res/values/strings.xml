@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">In Class 5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">Go</string>
+    <string name="progress_message">Loading Photo...</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="search_hint">Search keyword</string>
+
+</resources>
